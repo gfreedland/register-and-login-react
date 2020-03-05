@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  padding: 20px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 35px;
+}
+
+.App-login-box {
+  /*text-align: center;*/
+  margin-top: 10px;
+  padding:13px;
+  border: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 1px 1px #1abc9c;
+  background: #f0f8ff;
+  color: black;
+  width:450px; /* or whatever width you want. */
+  max-width:450px; /* or whatever width you want. */
+  display: inline-block;
+}
+
+.App-link {
+  color: #61dafb;
+}
